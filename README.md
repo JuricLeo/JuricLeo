@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuricLeo
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Next.js and Laravel
-- 💞️ I’m looking to collaborate on Web Development projects and blockchain technologies.
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me: ljurickc@gmail.com
 
 <!---
