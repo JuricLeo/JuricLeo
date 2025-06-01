@@ -1,3 +1,5 @@
+https://www.leopold-juric.com
+
 - 👋 Hi, I’m @JuricLeo
 - 👀 I’m interested in Software Development and Cybersecurity
 - 🌱 I’m currently learning Next.js and Laravel
