@@ -2,7 +2,7 @@ https://www.leopold-juric.com
 
 - 👋 Hi, I’m @JuricLeo
 - 👀 I’m interested in Software Development and Cybersecurity
-- 💻 I’m currently learning Next.js and Laravel
+- 💻 I’m currently learning Laravel, React and Astro
 - 🚀 I’m looking to collaborate on Web Development projects.
 - ✉️ How to reach me: ljurickc@gmail.com
 
